@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
            @Override
            public int getCurrentRetryCount() {
+
                return 50000;
            }
 
